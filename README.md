@@ -39,7 +39,14 @@
 
 <!-- 技术栈图标墙：真支持才贴（skillicons 对不认识的图标会返回占位空白，
      已用「与不存在图标的哈希对比」逐个验过；android 与 termux 是占位，故不列） -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,firebase,cloudflare&theme=dark" alt="技术栈" />
+<!-- 技术栈图标墙：真支持才贴（skillicons 对不认识的图标返回占位空白，已用哈希对比逐个验过）。
+     这一版是**照各项目的 package.json 实际依赖**补的，不是凭印象：
+       · 围棋引擎 web-katrain → react / vite / tailwind / tensorflow / typescript
+       · maomao-admin-api → express / firebase-admin
+       · myserver → express -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="前端" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,firebase,cloudflare,tensorflow&theme=dark" alt="后端与数据" />
 <br />
 <img src="https://skillicons.dev/icons?i=androidstudio,githubactions,git,github,linux,bash,npm,java,md&theme=dark" alt="工具与平台" />
 <br /><br />
