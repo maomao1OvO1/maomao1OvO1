@@ -97,7 +97,9 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=maomao1OvO1&label=%E6%9D%A5%E8%AE%BF%20&color=FF6EC7&style=for-the-badge" alt="来访" />
+<img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=2D3748" alt="关注" />
+<img src="https://img.shields.io/github/stars/maomao1OvO1/maomao1OvO1?style=for-the-badge&label=Star&color=FFD93D&labelColor=2D3748" alt="Star" />
+<img src="https://img.shields.io/github/repos/maomao1OvO1?style=for-the-badge&label=%E4%BB%93%E5%BA%93&color=68D391&labelColor=2D3748" alt="仓库数" />
 
 <br /><br />
 
