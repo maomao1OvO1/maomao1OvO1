@@ -105,6 +105,12 @@
 
 <img src="https://streak-stats.demolab.com/?user=maomao1OvO1&hide_border=true&background=4C1D95&border=FF6EC7&ring=FF6EC7&fire=FFD93D&currStreakLabel=68D391&sideLabels=F5F3FF&dates=D8B4FE&currStreakNum=9F7AEA" height="160" alt="连续贡献" />
 
+<!-- 🐍 贡献贪吃蛇：由 GitHub Actions 每天自动生成（见 .github/workflows/snake.yml） -->
+<img src="https://raw.githubusercontent.com/maomao1OvO1/maomao1OvO1/output/snake.svg" width="100%" alt="贡献贪吃蛇" />
+
+<!-- 📊 3D 贡献图：由 GitHub Actions 每天自动生成（见 .github/workflows/3d-contrib.yml） -->
+<img src="profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D 贡献图" />
+
 <br /><br />
 
 <img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=4C1D95" alt="关注" />
