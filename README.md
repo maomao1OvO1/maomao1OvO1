@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,45:9F7AEA,100:4FD1C5&height=235&section=header&text=%E6%AF%9B%E6%AF%9B&fontSize=78&fontColor=ffffff&fontAlignY=31&desc=%E4%BA%8C%E6%AC%A1%E5%85%83%20%C3%97%20%E6%8A%80%E6%9C%AF%E6%AD%BB%E5%AE%85%20%EF%BD%9C%20%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E6%90%9E%E4%B8%80%E5%88%87&descAlignY=54&descSize=19&animation=twinkling" width="100%" alt="毛毛 · 二次元 × 技术死宅" />
 
+<img src="assets/banner-anim.svg" width="100%" alt="动态装饰横幅" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=FF6EC7&center=true&vCenter=true&width=660&height=42&lines=%E6%B7%B1%E5%A4%9C%E4%BF%AE%E4%BB%99%E4%B8%AD%EF%BC%8C%E9%A1%BA%E6%89%8B%E4%BF%AE%E4%B8%AA%E7%A5%96%E4%BC%A0%20bug%20%F0%9F%8C%99;%E5%96%9C%E6%AC%A2%E7%B4%AB%E8%89%B2%E5%92%8C%E7%BB%BF%E8%89%B2%EF%BC%8C%E8%B6%8A%E9%B2%9C%E8%89%B3%E8%B6%8A%E5%A5%BD%20%F0%9F%92%9C%F0%9F%92%9A;%E4%B8%8D%E5%90%83%E8%BE%A3%20%C2%B7%20%E5%92%B8%E5%85%9A%20%C2%B7%20%E5%8F%AF%E4%B9%90%E5%8F%AA%E5%96%9D%E5%8F%AF%E5%8F%A3%20%F0%9F%A5%A4" alt="一句话" />
 <br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=900&color=4FD1C5&center=true&vCenter=true&width=660&height=36&lines=%E6%B2%A1%E6%9C%89%E7%94%B5%E8%84%91%EF%BC%8C%E5%85%A8%E9%9D%A0%E4%B8%80%E9%83%A8%E8%83%BD%E6%8A%98%E8%85%BE%E7%9A%84%E6%89%8B%E6%9C%BA%20%F0%9F%93%B1;%E6%AD%A3%E5%9C%A8%E6%94%92%E9%92%B1%E4%B9%B0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%20%F0%9F%92%BB;%E6%83%B3%E5%8E%BB%E6%BC%AB%E5%B1%95%20%C2%B7%20%E6%83%B3%E5%8E%BB%E5%8D%97%E6%96%B9%20%F0%9F%8E%AA" alt="另一句" />
