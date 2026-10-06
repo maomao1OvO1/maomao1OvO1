@@ -115,7 +115,7 @@
 
 <br /><br />
 
-<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/404-%E8%BF%99%E9%A1%B5%E8%B7%91%E4%B8%A2%E4%BA%86%20%C2%B7%20%E7%82%B9%E6%88%91%E5%9B%9E%E9%A6%96%E9%A1%B5-FF5C8A?style=for-the-badge&labelColor=4C1D95" alt="404 · 这页跑丢了" /></a>
+<a href="https://maomao1ovo1.github.io/error.html"><img src="https://img.shields.io/badge/404-%E8%BF%99%E9%A1%B5%E8%B7%91%E4%B8%A2%E4%BA%86%20%C2%B7%20%E7%82%B9%E6%88%91%E8%BF%9B%E6%8A%A5%E9%94%99%E7%8E%B0%E5%9C%BA-FF5C8A?style=for-the-badge&labelColor=4C1D95" alt="404 · 这页跑丢了" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,45:68D391,100:4FD1C5&height=150&section=footer" width="100%" alt="页脚" />
 
