@@ -111,6 +111,30 @@
 <!-- 📊 3D 贡献图：由 GitHub Actions 每天自动生成（见 .github/workflows/3d-contrib.yml） -->
 <img src="profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D 贡献图" />
 
+
+<br /><br />
+
+<!-- 🟩 贡献热力条（ghchart 实时拉取，一条横条看全年） -->
+<img src="https://ghchart.rshah.org/9F7AEA/maomao1OvO1" width="100%" alt="贡献热力条" />
+
+<!-- 📊 统计总览卡（一张图看全：仓库 / Star / 提交 / 关注 / 语言） -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maomao1OvO1&bg_color=4C1D95&title_color=FF6EC7&text_color=F5F3FF&icon_color=68D391&border_color=FF6EC7" width="100%" alt="统计总览" />
+
+<!-- 🌙 高产时段（他深夜修仙，这图大概率凌晨那块最大） -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maomao1OvO1&bg_color=4C1D95&title_color=FF6EC7&text_color=F5F3FF&icon_color=68D391&border_color=FF6EC7&utcOffset=8" height="180" alt="高产时段" />
+
+<!-- 📌 网站仓库置顶卡（点进去就是主站仓库） -->
+<a href="https://github.com/maomao1OvO1/maomao1OvO1.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maomao1OvO1&repo=maomao1OvO1.github.io&bg_color=4C1D95&title_color=FF6EC7&text_color=F5F3FF&icon_color=68D391&border_color=FF6EC7" height="180" alt="毛毛的个人主页仓库" />
+</a>
+
+<br />
+
+<!-- 🏷️ 三枚小徽章：建站时长 / 本月提交 / 代码总量 -->
+<img src="https://img.shields.io/github/created-at/maomao1OvO1/maomao1OvO1?style=for-the-badge&color=68D391&labelColor=4C1D95&label=%E5%BB%BA%E7%AB%99" alt="建站时长" />
+<img src="https://img.shields.io/github/commit-activity/m/maomao1OvO1/maomao1OvO1?style=for-the-badge&color=FF6EC7&labelColor=4C1D95&label=%E6%9C%AC%E6%9C%88%E6%8F%90%E4%BA%A4" alt="本月提交" />
+<img src="https://img.shields.io/github/languages/code-size/maomao1OvO1/maomao1OvO1?style=for-the-badge&color=4FD1C5&labelColor=4C1D95&label=%E4%BB%A3%E7%A0%81%E9%87%8F" alt="代码总量" />
+
 <br /><br />
 
 <img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=4C1D95" alt="关注" />
