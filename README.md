@@ -37,23 +37,25 @@
 
 <div align="center">
 
-<!-- 技术栈图标墙：真支持才贴（skillicons 对不认识的图标会返回占位空白，
-     已用「与不存在图标的哈希对比」逐个验过；android 与 termux 是占位，故不列） -->
-<!-- 技术栈图标墙：真支持才贴（skillicons 对不认识的图标返回占位空白，已用哈希对比逐个验过）。
-     这一版是**照各项目的 package.json 实际依赖**补的，不是凭印象：
-       · 围棋引擎 web-katrain → react / vite / tailwind / tensorflow / typescript
-       · maomao-admin-api → express / firebase-admin
-       · myserver → express -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" alt="前端" />
+<!-- 技术栈：主墙只留「关键 / 炫酷 / 权威」的 8 个，其余收进折叠；
+     最后那只 DeepSeek 是自己画的（skillicons 里没有它），特意和它们排同一行 -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,firebase,cloudflare,tensorflow&theme=dark" height="44" alt="主要技术栈" />
+<img src="assets/deepseek.svg" width="44" height="44" alt="DeepSeek" />
+
+<sub>左边是主要用到的 —— 右边那只鲸鱼，是帮我写码的 🐋</sub>
+
+<details>
+<summary><b>🔧 点开看完整技术栈</b></summary>
+
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,firebase,cloudflare,tensorflow&theme=dark" alt="后端与数据" />
+
+<img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,express&theme=dark" alt="网页与后端" />
 <br />
 <img src="https://skillicons.dev/icons?i=androidstudio,githubactions,git,github,linux,bash,npm,java,md&theme=dark" alt="工具与平台" />
-<br /><br />
-<!-- DeepSeek 图标：skillicons 里没有，这个是自己做的（simple-icons 官方 logo + 同款深色方块） -->
-<img src="assets/deepseek.svg" width="48" height="48" alt="DeepSeek" />
 
-<sub>上面是折腾过的技术栈 —— 另外还有一只 DeepSeek 鲸鱼在旁边帮我写码 🐋</sub>
+<sub>还有几样用过但图标库没有的：Termux · ffmpeg · ADB · TTS 引擎 · GitHub Pages</sub>
+
+</details>
 
 </div>
 
