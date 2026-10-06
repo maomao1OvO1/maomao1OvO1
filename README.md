@@ -36,7 +36,18 @@
 | 📱 **[硬件测试大厅](https://maomao1ovo1.github.io/hardware-lab/)** | 免授权指纹检测 + 一键授权的手机体检 |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,android,git,github,linux,bash&theme=dark" alt="折腾过的东西" />
+
+<!-- 技术栈图标墙：真支持才贴（skillicons 对不认识的图标会返回占位空白，
+     已用「与不存在图标的哈希对比」逐个验过；android 与 termux 是占位，故不列） -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,firebase,cloudflare&theme=dark" alt="技术栈" />
+<br />
+<img src="https://skillicons.dev/icons?i=androidstudio,githubactions,git,github,linux,bash,npm,java,md&theme=dark" alt="工具与平台" />
+<br /><br />
+<!-- DeepSeek 图标：skillicons 里没有，这个是自己做的（simple-icons 官方 logo + 同款深色方块） -->
+<img src="assets/deepseek.svg" width="48" height="48" alt="DeepSeek" />
+
+<sub>上面是折腾过的技术栈 —— 另外还有一只 DeepSeek 鲸鱼在旁边帮我写码 🐋</sub>
+
 </div>
 
 ## 🌸 我是谁
