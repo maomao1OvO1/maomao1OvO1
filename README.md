@@ -37,21 +37,39 @@
 
 <div align="center">
 
-<!-- 技术栈：主墙只留「关键 / 炫酷 / 权威」的 8 个，其余收进折叠；
-     最后那只 DeepSeek 是自己画的（skillicons 里没有它），特意和它们排同一行 -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,firebase,cloudflare,tensorflow&theme=dark" height="44" alt="主要技术栈" />
-<img src="assets/deepseek.svg" width="44" height="44" alt="DeepSeek" />
+<!-- 技术栈徽章（带文字 + 品牌色 + 各自的 logo）—— 主位只放「关键 / 炫酷 / 权威」的那几个，
+     其余收进折叠；DeepSeek 那枚必须在主位（毛毛原话"一定要有你呀"） -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<a href="https://www.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /></a>
 
-<sub>左边是主要用到的 —— 右边那只鲸鱼，是帮我写码的 🐋</sub>
+<sub>上面是主要用到的 —— 最右边那枚 DeepSeek，是帮我写码的 🐋</sub>
 
 <details>
 <summary><b>🔧 点开看完整技术栈</b></summary>
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,express&theme=dark" alt="网页与后端" />
-<br />
-<img src="https://skillicons.dev/icons?i=androidstudio,githubactions,git,github,linux,bash,npm,java,md&theme=dark" alt="工具与平台" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 <sub>还有几样用过但图标库没有的：Termux · ffmpeg · ADB · TTS 引擎 · GitHub Pages</sub>
 
@@ -60,6 +78,16 @@
 </div>
 
 ## 🌸 我是谁
+
+<div align="center">
+
+<!-- 联系方式：只放他**已经公开**的入口。
+     ⚠️ 特意没有邮箱 —— 他网站主打「源码零邮箱」，不能在这儿漏出去 -->
+<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-9F7AEA?style=for-the-badge&labelColor=4C1D95" alt="个人主页" /></a>
+<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20%E7%AB%99%E5%86%85%E7%95%99%E8%A8%80-68D391?style=for-the-badge&labelColor=4C1D95" alt="站内留言" /></a>
+<a href="https://github.com/maomao1OvO1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
 
 | | |
 |---|---|
