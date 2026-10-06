@@ -21,13 +21,15 @@
 
 <br />
 
-<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-maomao1ovo1.github.io-FF6EC7?style=for-the-badge&labelColor=2D3748" alt="个人主页" /></a>
+<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-maomao1ovo1.github.io-FF6EC7?style=for-the-badge&labelColor=1A1523" alt="个人主页" /></a>
 
 </div>
 
 ✦ ✧ ✦ ✧ ✦
 
 ## 🌸 你好呀，我是毛毛
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:9F7AEA&height=6&section=header" width="100%" alt="" />
 
 「毛毛」是初中的时候一个同学给我起的外号，叫着叫着就定下来了。
 
@@ -44,6 +46,8 @@
 ✦ ✧ ✦ ✧ ✦
 
 ## 🎀 我在折腾什么
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9F7AEA,100:4FD1C5&height=6&section=header" width="100%" alt="" />
 
 | 作品 | 是什么 |
 |---|---|
@@ -62,6 +66,8 @@
 
 ## 💜 我喜欢
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FD1C5,100:68D391&height=6&section=header" width="100%" alt="" />
+
 | | |
 |---|---|
 | 🎬 **看番** | 涉猎很杂：小马宝莉（本命 **云宝** 🌈）、咱们裸熊、Charlotte、埃罗芒阿老师、魔女之旅…… 随缘补，主要在 B 站看 |
@@ -75,6 +81,8 @@
 ✦ ✧ ✦ ✧ ✦
 
 ## 🌙 小坐标
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:68D391,100:FFD93D&height=6&section=header" width="100%" alt="" />
 
 - 生日 **3 月 4 日**，双鱼座
 - 英语不太好，看文档全靠翻译和 AI 帮忙（游戏里的梗倒是能猜个八九不离十 😂）
@@ -90,16 +98,16 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=maomao1OvO1&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1A202C&title_color=FF6EC7&icon_color=68D391&text_color=E2E8F0&ring_color=9F7AEA" height="165" alt="GitHub 统计" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1OvO1&layout=compact&hide_border=true&bg_color=1A202C&title_color=9F7AEA&text_color=E2E8F0&langs_count=8" height="165" alt="语言分布" />
+<img src="https://github-readme-stats.vercel.app/api?username=maomao1OvO1&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1A1523&border_color=9F7AEA&title_color=FF6EC7&icon_color=68D391&text_color=E9E4FF&ring_color=9F7AEA" height="165" alt="GitHub 统计" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1OvO1&layout=compact&hide_border=true&bg_color=1A1523&border_color=9F7AEA&title_color=9F7AEA&text_color=E9E4FF&langs_count=8" height="165" alt="语言分布" />
 
-<img src="https://streak-stats.demolab.com/?user=maomao1OvO1&hide_border=true&background=1A202C&ring=FF6EC7&fire=FFD93D&currStreakLabel=68D391&sideLabels=E2E8F0&dates=718096&currStreakNum=9F7AEA" height="160" alt="连续贡献" />
+<img src="https://streak-stats.demolab.com/?user=maomao1OvO1&hide_border=true&background=1A1523&border=9F7AEA&ring=FF6EC7&fire=FFD93D&currStreakLabel=68D391&sideLabels=E9E4FF&dates=9F7AEA&currStreakNum=9F7AEA" height="160" alt="连续贡献" />
 
 <br /><br />
 
-<img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=2D3748" alt="关注" />
-<img src="https://img.shields.io/github/stars/maomao1OvO1/maomao1OvO1?style=for-the-badge&label=Star&color=FFD93D&labelColor=2D3748" alt="Star" />
-<img src="https://img.shields.io/github/repos/maomao1OvO1?style=for-the-badge&label=%E4%BB%93%E5%BA%93&color=68D391&labelColor=2D3748" alt="仓库数" />
+<img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=1A1523" alt="关注" />
+<img src="https://img.shields.io/github/stars/maomao1OvO1/maomao1OvO1?style=for-the-badge&label=Star&color=FFD93D&labelColor=1A1523" alt="Star" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaomao1OvO1&query=%24.public_repos&label=%E4%BB%93%E5%BA%93&color=68D391&labelColor=1A1523&style=for-the-badge&logo=github" alt="仓库数" />
 
 <br /><br />
 
