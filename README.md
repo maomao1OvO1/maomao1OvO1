@@ -21,7 +21,7 @@
 
 <br />
 
-<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-maomao1ovo1.github.io-FF6EC7?style=for-the-badge&labelColor=1A1523" alt="个人主页" /></a>
+<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-maomao1ovo1.github.io-FF6EC7?style=for-the-badge&labelColor=4C1D95" alt="个人主页" /></a>
 
 </div>
 
@@ -98,20 +98,24 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=maomao1OvO1&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1A1523&border_color=9F7AEA&title_color=FF6EC7&icon_color=68D391&text_color=E9E4FF&ring_color=9F7AEA" height="165" alt="GitHub 统计" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1OvO1&layout=compact&hide_border=true&bg_color=1A1523&border_color=9F7AEA&title_color=9F7AEA&text_color=E9E4FF&langs_count=8" height="165" alt="语言分布" />
+<img src="https://github-readme-stats.vercel.app/api?username=maomao1OvO1&show_icons=true&hide_border=true&include_all_commits=true&bg_color=4C1D95&border_color=FF6EC7&title_color=FF6EC7&icon_color=68D391&text_color=F5F3FF&ring_color=9F7AEA" height="165" alt="GitHub 统计" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1OvO1&layout=compact&hide_border=true&bg_color=4C1D95&border_color=FF6EC7&title_color=9F7AEA&text_color=F5F3FF&langs_count=8" height="165" alt="语言分布" />
 
-<img src="https://streak-stats.demolab.com/?user=maomao1OvO1&hide_border=true&background=1A1523&border=9F7AEA&ring=FF6EC7&fire=FFD93D&currStreakLabel=68D391&sideLabels=E9E4FF&dates=9F7AEA&currStreakNum=9F7AEA" height="160" alt="连续贡献" />
+<img src="https://streak-stats.demolab.com/?user=maomao1OvO1&hide_border=true&background=4C1D95&border=FF6EC7&ring=FF6EC7&fire=FFD93D&currStreakLabel=68D391&sideLabels=F5F3FF&dates=D8B4FE&currStreakNum=9F7AEA" height="160" alt="连续贡献" />
 
 <br /><br />
 
-<img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=1A1523" alt="关注" />
-<img src="https://img.shields.io/github/stars/maomao1OvO1/maomao1OvO1?style=for-the-badge&label=Star&color=FFD93D&labelColor=1A1523" alt="Star" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaomao1OvO1&query=%24.public_repos&label=%E4%BB%93%E5%BA%93&color=68D391&labelColor=1A1523&style=for-the-badge&logo=github" alt="仓库数" />
+<img src="https://img.shields.io/github/followers/maomao1OvO1?style=for-the-badge&label=%E5%85%B3%E6%B3%A8&color=FF6EC7&labelColor=4C1D95" alt="关注" />
+<img src="https://img.shields.io/github/stars/maomao1OvO1/maomao1OvO1?style=for-the-badge&label=Star&color=FFD93D&labelColor=4C1D95" alt="Star" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmaomao1OvO1&query=%24.public_repos&label=%E4%BB%93%E5%BA%93&color=68D391&labelColor=4C1D95&style=for-the-badge&logo=github" alt="仓库数" />
 
 <br /><br />
 
 **欢迎来我这儿玩 —— 开心最重要 🐳**
+
+<br /><br />
+
+<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/404-%E8%BF%99%E9%A1%B5%E8%B7%91%E4%B8%A2%E4%BA%86%20%C2%B7%20%E7%82%B9%E6%88%91%E5%9B%9E%E9%A6%96%E9%A1%B5-FF5C8A?style=for-the-badge&labelColor=4C1D95" alt="404 · 这页跑丢了" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,45:68D391,100:4FD1C5&height=150&section=footer" width="100%" alt="页脚" />
 
