@@ -38,7 +38,8 @@
 <div align="center">
 
 <!-- 技术栈徽章（带文字 + 品牌色 + 各自的 logo）—— 主位只放「关键 / 炫酷 / 权威」的那几个，
-     其余收进折叠；DeepSeek 那枚必须在主位（毛毛原话"一定要有你呀"） -->
+     其余收进折叠；DeepSeek 那枚必须在主位（毛毛原话"一定要有你呀"）；
+     DeepSeek Harness 紧随其后（2026-10-07 毛毛要求补上，链接指向官方仓库 deepseek-ai/deepseek-harness） -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -48,8 +49,9 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <a href="https://www.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /></a>
+<a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness" /></a>
 
-<sub>上面是主要用到的 —— 最右边那枚 DeepSeek，是帮我写码的 🐋</sub>
+<sub>上面是主要用到的 —— 最后两枚是一对：<b>DeepSeek</b> 给我写码 🐋，<b>DeepSeek Harness</b> 是我跑它的壳</sub>
 
 <details>
 <summary><b>🔧 点开看完整技术栈</b></summary>
