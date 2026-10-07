@@ -1,0 +1,54 @@
+{
+  "bytes": 9493842,
+  "human": "9.05 MiB",
+  "repos": [
+    {
+      "name": "maomao1OvO1.github.io",
+      "bytes": 6391344,
+      "human": "6.10 MiB"
+    },
+    {
+      "name": "maomao1OvO1.github.io-legacy",
+      "bytes": 3017610,
+      "human": "2.88 MiB"
+    },
+    {
+      "name": "nfc-tap-9f3a",
+      "bytes": 65183,
+      "human": "63.66 KiB"
+    },
+    {
+      "name": "myserver",
+      "bytes": 17501,
+      "human": "17.09 KiB"
+    },
+    {
+      "name": "maomaowang.top",
+      "bytes": 2204,
+      "human": "2.15 KiB"
+    },
+    {
+      "name": "maomao-persona",
+      "bytes": 0,
+      "human": "0 B"
+    },
+    {
+      "name": "maomao1OvO1",
+      "bytes": 0,
+      "human": "0 B"
+    }
+  ],
+  "languages": {
+    "TypeScript": 2867733,
+    "HTML": 2617403,
+    "JavaScript": 2512321,
+    "Python": 1130529,
+    "CSS": 353740,
+    "Shell": 12116
+  },
+  "repo_count": 7,
+  "excluded_forks": [
+    "kana-dojo"
+  ],
+  "updated": "2026-10-07 05:23 UTC"
+}

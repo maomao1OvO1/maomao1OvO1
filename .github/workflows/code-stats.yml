@@ -1,0 +1,44 @@
+# ════════════════════════════════════════════════════════════════════
+# 代码总量统计：把「所有仓库」的代码量算出来，写进 code-stats.json
+#   产出：仓库根目录的 code-stats.json → 主页 README 那枚「代码总量」徽章读它
+#   口径：GitHub linguist（只算被识别成语言的文件），已排除 fork
+#   公开仓库跑 Actions 免费，不花钱
+#   创建：2026-10-07（小鲸）
+# ════════════════════════════════════════════════════════════════════
+name: 统计代码总量
+
+on:
+  schedule:
+    - cron: "0 21 * * *"     # 每天 UTC 21:00（北京时间次日 05:00）自动跑一次
+  workflow_dispatch:          # 也能在 Actions 页面手动点一下就跑
+  push:
+    paths:                    # 脚本或本文件被改动时也跑一次
+      - "scripts/code_stats.py"
+      - ".github/workflows/code-stats.yml"
+
+permissions:
+  contents: write             # 需要写权限，才能把结果提交回仓库
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 统计所有仓库的代码量
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/code_stats.py
+
+      - name: 提交回仓库
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add code-stats.json
+          if git diff --staged --quiet; then
+            echo "统计结果没有变化，跳过提交"
+          else
+            git commit -m "chore: 自动更新代码总量统计"
+            git push
+          fi
