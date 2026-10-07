@@ -117,6 +117,10 @@
 
 <div align="center">
 
+<!-- 代码总览图：由 .github/workflows/code-stats.yml 每天自动重新生成
+     —— 数字 + 各仓库条形 + 语言占比都在一张图里，一眼能看出大小差距 -->
+<img src="code-stats.svg" width="100%" alt="所有仓库代码总览" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=maomao1OvO1&show_icons=true&hide_border=true&include_all_commits=true&bg_color=4C1D95&border_color=FF6EC7&title_color=FF6EC7&icon_color=68D391&text_color=F5F3FF&ring_color=9F7AEA" height="165" alt="GitHub 统计" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maomao1OvO1&layout=compact&hide_border=true&bg_color=4C1D95&border_color=FF6EC7&title_color=9F7AEA&text_color=F5F3FF&langs_count=8" height="165" alt="语言分布" />
 
