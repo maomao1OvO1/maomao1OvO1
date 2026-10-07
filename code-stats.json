@@ -1,6 +1,6 @@
 {
-  "bytes": 9493842,
-  "human": "9.05 MiB",
+  "bytes": 9497846,
+  "human": "9.06 MiB",
   "repos": [
     {
       "name": "maomao1OvO1.github.io",
@@ -23,6 +23,11 @@
       "human": "17.09 KiB"
     },
     {
+      "name": "maomao1OvO1",
+      "bytes": 4004,
+      "human": "3.91 KiB"
+    },
+    {
       "name": "maomaowang.top",
       "bytes": 2204,
       "human": "2.15 KiB"
@@ -31,18 +36,13 @@
       "name": "maomao-persona",
       "bytes": 0,
       "human": "0 B"
-    },
-    {
-      "name": "maomao1OvO1",
-      "bytes": 0,
-      "human": "0 B"
     }
   ],
   "languages": {
     "TypeScript": 2867733,
     "HTML": 2617403,
     "JavaScript": 2512321,
-    "Python": 1130529,
+    "Python": 1134533,
     "CSS": 353740,
     "Shell": 12116
   },
