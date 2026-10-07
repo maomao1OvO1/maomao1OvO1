@@ -1,5 +1,5 @@
 {
-  "bytes": 9497846,
+  "bytes": 9501989,
   "human": "9.06 MiB",
   "repos": [
     {
@@ -24,8 +24,8 @@
     },
     {
       "name": "maomao1OvO1",
-      "bytes": 4004,
-      "human": "3.91 KiB"
+      "bytes": 8147,
+      "human": "7.96 KiB"
     },
     {
       "name": "maomaowang.top",
@@ -42,7 +42,7 @@
     "TypeScript": 2867733,
     "HTML": 2617403,
     "JavaScript": 2512321,
-    "Python": 1134533,
+    "Python": 1138676,
     "CSS": 353740,
     "Shell": 12116
   },
@@ -50,5 +50,5 @@
   "excluded_forks": [
     "kana-dojo"
   ],
-  "updated": "2026-10-07 05:26 UTC"
+  "updated": "2026-10-07 05:27 UTC"
 }
