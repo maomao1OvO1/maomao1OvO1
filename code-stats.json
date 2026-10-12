@@ -1,16 +1,21 @@
 {
-  "bytes": 9511927,
-  "human": "9.07 MiB",
+  "bytes": 11243369,
+  "human": "10.72 MiB",
   "repos": [
     {
       "name": "maomao1OvO1.github.io",
-      "bytes": 6401282,
-      "human": "6.10 MiB"
+      "bytes": 6428272,
+      "human": "6.13 MiB"
     },
     {
       "name": "maomao1OvO1.github.io-legacy",
       "bytes": 3017610,
       "human": "2.88 MiB"
+    },
+    {
+      "name": "toolpocket",
+      "bytes": 1704452,
+      "human": "1.63 MiB"
     },
     {
       "name": "nfc-tap-9f3a",
@@ -39,16 +44,16 @@
     }
   ],
   "languages": {
+    "HTML": 3927407,
+    "JavaScript": 2921817,
     "TypeScript": 2867733,
-    "HTML": 2617707,
-    "JavaScript": 2521955,
     "Python": 1138676,
-    "CSS": 353740,
+    "CSS": 375620,
     "Shell": 12116
   },
-  "repo_count": 7,
+  "repo_count": 8,
   "excluded_forks": [
     "kana-dojo"
   ],
-  "updated": "2026-10-11 00:09 UTC"
+  "updated": "2026-10-12 00:20 UTC"
 }
