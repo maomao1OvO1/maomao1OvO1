@@ -34,6 +34,9 @@
 | 🎵 **[NFC 一贴就听](https://maomao1ovo1.github.io/nfc-tap-9f3a/)** | 手机贴一下 NFC 挂件，直接开唱的小播放器 |
 | 🪐 **[太阳系 3D](https://maomao1ovo1.github.io/solar-system/)** | 能怼近看星球的小模型（摸鱼用） |
 | 📱 **[硬件测试大厅](https://maomao1ovo1.github.io/hardware-lab/)** | 免授权指纹检测 + 一键授权的手机体检 |
+| 🧰 **[ToolPocket · 工具袋](https://tools.maomaowang.top/)** | 35 个在浏览器里跑完的在线小工具，文件不上传、不用注册，中 / 英 / 日三语 |
+| 🖼️ **[CoverMill · 封面生成器](https://maomaowang.top/covermill/)** | 一次输入、六种平台尺寸一起出图；20 套模板、纯前端 Canvas、可批量导出 ZIP |
+| 🧪 **[JS 渲染演示页](https://maomao1ovo1.github.io/render.html)** | 单文件零依赖，HTML 里只留一个空 div，其余页面元素全由 JS 现场创建 |
 
 <div align="center">
 
