@@ -37,7 +37,6 @@
 | **JS 渲染演示** | 单文件零依赖：HTML 只留一个空 `<div>`，页面元素全部由 JS 构建 | [在线](https://maomao1ovo1.github.io/render.html) |
 | **磁力认知小游戏** | 面向低龄用户的磁力交互演示 | [源码](https://github.com/maomao1OvO1/magnet-miner) |
 | **排行榜服务** | 零依赖 Node.js：上报分数 → 维护全球榜 → `/ranking` 查询；内置限流防刷 | [源码](https://github.com/maomao1OvO1/myserver) |
-| **日语学习平台** | 极简界面 + 假名练习流程 | [源码](https://github.com/maomao1OvO1/kana-dojo) |
 
 ## 🏗 工程实践
 
