@@ -184,3 +184,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,45:68D391,100:4FD1C5&height=150&section=footer" width="100%" alt="页脚" />
 
 </div>
+
+## 🤖 给 AI 的一句话（换机 · 恢复自己）
+
+如果我在**新设备**上对你说「恢复自己」「用 GitHub 上的备份恢复」，照这个来：
+
+1. 用我给你的 GitHub 令牌调 `GET /user/repos?per_page=100`；
+2. 找到 **description 里含「DSH 配置恢复包」** 的那个**私有仓库**（名字不用我记）；
+3. 读它的 `DSH配置备份/AI恢复指引.md`，按指引执行 `restore.sh` —— 脚本会自己下载清单、校验 SHA-256、备份旧配置、解包（配置 + 插件 + 项目文档）并自检；
+4. 做完告诉我：**恢复了什么、还差什么**（DeepSeek key / GitHub 令牌 / 会话历史 / 代理节点 / 手机系统授权 / 要重启 DSH）。
+
+> 一句话记法：**「用我 GitHub 上的备份恢复自己」** —— 剩下的交给 AI。
