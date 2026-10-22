@@ -1,18 +1,9 @@
 <div align="center">
 
-<!-- ═══ 第一屏：只放最抓眼的 —— 动态横幅 + 名字 + 一句话 ═══ -->
+<!-- ═══ 第一屏：横幅 + 名字 + 技术定位 ═══ -->
 <img src="assets/banner-anim.svg" width="100%" alt="毛毛" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,45:9F7AEA,100:4FD1C5&height=235&section=header&text=%E6%AF%9B%E6%AF%9B&fontSize=78&fontColor=ffffff&fontAlignY=31&desc=%E4%BA%8C%E6%AC%A1%E5%85%83%20%C3%97%20%E6%8A%80%E6%9C%AF%E6%AD%BB%E5%AE%85%20%EF%BD%9C%20%E4%B8%80%E9%83%A8%E6%89%8B%E6%9C%BA%E6%90%9E%E4%B8%80%E5%88%87&descAlignY=54&descSize=19&animation=twinkling" width="100%" alt="毛毛 · 二次元 × 技术死宅" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=FF6EC7&center=true&vCenter=true&width=660&height=42&lines=%E6%B7%B1%E5%A4%9C%E4%BF%AE%E4%BB%99%E4%B8%AD%EF%BC%8C%E9%A1%BA%E6%89%8B%E4%BF%AE%E4%B8%AA%E7%A5%96%E4%BC%A0%20bug%20%F0%9F%8C%99;%E5%96%9C%E6%AC%A2%E7%B4%AB%E8%89%B2%E5%92%8C%E7%BB%BF%E8%89%B2%EF%BC%8C%E8%B6%8A%E9%B2%9C%E8%89%B3%E8%B6%8A%E5%A5%BD%20%F0%9F%92%9C%F0%9F%92%9A;%E4%B8%8D%E5%90%83%E8%BE%A3%20%C2%B7%20%E5%92%B8%E5%85%9A%20%C2%B7%20%E5%8F%AF%E4%B9%90%E5%8F%AA%E5%96%9D%E5%8F%AF%E5%8F%A3%20%F0%9F%A5%A4" alt="一句话" />
-
-<br />
-
-<img src="https://img.shields.io/badge/%E5%AD%A6%E7%94%9F%E5%85%9A%20%C2%B7%20%E8%81%8C%E9%AB%98%E4%BA%8C%E5%B9%B4%E7%BA%A7-FF6EC7?style=for-the-badge" alt="学生党 · 职高二年级" />
-<img src="https://img.shields.io/badge/%E5%8F%8C%E9%B1%BC%E5%BA%A7%20%C2%B7%203%20%E6%9C%88%204%20%E6%97%A5-4FD1C5?style=for-the-badge" alt="双鱼座 · 3 月 4 日" />
-<img src="https://img.shields.io/badge/%E4%BA%8C%E6%AC%A1%E5%85%83%20%C3%97%20%E6%8A%80%E6%9C%AF%E5%AE%85-9F7AEA?style=for-the-badge" alt="二次元 × 技术宅" />
-<img src="https://img.shields.io/badge/%E6%B7%B1%E5%A4%9C%E4%BF%AE%E4%BB%99%E4%B8%AD-68D391?style=for-the-badge" alt="深夜修仙中" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,45:9F7AEA,100:4FD1C5&height=235&section=header&text=%E6%AF%9B%E6%AF%9B&fontSize=78&fontColor=ffffff&fontAlignY=31&desc=Web%20%7C%20Games%20%7C%20Automation&descAlignY=54&descSize=19&animation=twinkling" width="100%" alt="毛毛 · Web / Games / Automation" />
 
 <br />
 
@@ -22,17 +13,25 @@
 
 ---
 
-## 🎮 我在折腾什么
+## 🧭 简介
 
-> 都是自己一个人写的，**点进去就能玩** ——
+前端 / 小游戏 / 在线工具 / 自动化，**从设计、编码到部署运维一个人完成**。
+
+- **方向**：Web 应用与交互（Canvas / WebGL 渲染）、小游戏、浏览器工具、Node 服务、Android 自动化
+- **环境**：Android 手机 + Termux + DSH，开发、部署、运维全部在手机上完成；作品托管在 GitHub Pages / Cloudflare
+- **习惯**：能自己写就不套模板，优先零依赖、纯前端、可离线运行
+
+## 🚀 项目
+
+> 自己从零写、自己部署：网页应用、小游戏、在线工具、自动化服务。
 
 | 作品 | 是什么 |
 |---|---|
 | 🏠 **[毛毛的个人主页](https://maomao1ovo1.github.io)** | 自己写、自己托管的小站 —— 游戏 / 音乐 / 相册都在这儿 |
-| 🗼 **[共鸣之塔](https://maomao1ovo1.github.io/games/td/source/game.html)** | 自己一个人写的**像素塔防**：元素共鸣、8 座塔、无尽模式，网页直接玩，也有安卓包 |
+| 🗼 **[共鸣之塔](https://maomao1ovo1.github.io/games/td/source/game.html)** | 自己一个人写的**像素塔防**：元素共鸣、8 座塔、无尽模式，网页版可直接运行，另有安卓包 |
 | 🎮 **[小游戏大厅](https://maomao1ovo1.github.io/games.html)** | 2048 · 贪吃蛇 · 打字 · 猜数字 · 五子棋 · 象棋 · 捕鱼 · 围棋，全带排行榜 |
 | 🎵 **[NFC 一贴就听](https://maomao1ovo1.github.io/nfc-tap-9f3a/)** | 手机贴一下 NFC 挂件，直接开唱的小播放器 |
-| 🪐 **[太阳系 3D](https://maomao1ovo1.github.io/solar-system/)** | 能怼近看星球的小模型（摸鱼用） |
+| 🪐 **[太阳系 3D](https://maomao1ovo1.github.io/solar-system/)** | 能怼近看星球的小模型 |
 | 📱 **[硬件测试大厅](https://maomao1ovo1.github.io/hardware-lab/)** | 免授权指纹检测 + 一键授权的手机体检 |
 | 🧰 **[ToolPocket · 工具袋](https://tools.maomaowang.top/)** | 35 个在浏览器里跑完的在线小工具，文件不上传、不用注册，中 / 英 / 日三语 |
 | 🖼️ **[CoverMill · 封面生成器](https://maomaowang.top/covermill/)** | 一次输入、六种平台尺寸一起出图；20 套模板、纯前端 Canvas、可批量导出 ZIP |
@@ -40,9 +39,7 @@
 
 <div align="center">
 
-<!-- 技术栈徽章（带文字 + 品牌色 + 各自的 logo）—— 主位只放「关键 / 炫酷 / 权威」的那几个，
-     其余收进折叠；DeepSeek 那枚必须在主位（毛毛原话"一定要有你呀"）；
-     DeepSeek Harness 紧随其后（2026-10-07 毛毛要求补上，链接指向官方仓库 deepseek-ai/deepseek-harness） -->
+<!-- 技术栈 -->
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
@@ -82,40 +79,6 @@
 
 </div>
 
-## 🌸 我是谁
-
-<div align="center">
-
-<!-- 联系方式：只放他**已经公开**的入口。
-     ⚠️ 特意没有邮箱 —— 他网站主打「源码零邮箱」，不能在这儿漏出去 -->
-<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-9F7AEA?style=for-the-badge&labelColor=4C1D95" alt="个人主页" /></a>
-<a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20%E7%AB%99%E5%86%85%E7%95%99%E8%A8%80-68D391?style=for-the-badge&labelColor=4C1D95" alt="站内留言" /></a>
-<a href="https://github.com/maomao1OvO1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-| | |
-|---|---|
-| 🎒 **身份** | 学生党，职高二年级 —— 作息自由，**深夜修仙**是常态 |
-| 🎮 **属性** | **二次元 × 技术宅**：聊番、聊游戏、聊手办、聊代码就来劲；跟不熟的人偏宅，熟了话很多 |
-| 📱 **家当** | **没有电脑** —— 上面那些东西全靠一部能折腾的手机搞出来的 |
-| 🐋 **搭子** | 有只 AI 鲸鱼叫「**小鲸**」，帮我写码、排障、当老师（边做边学） |
-| 💜 **审美** | 喜欢**紫色和绿色**，越鲜艳越好；不喜欢黑白灰 |
-
-> 一句话：**能自己动手搞出来的，就不想用现成的。**
-
-## 💜 我喜欢
-
-| | |
-|---|---|
-| 🎬 **看番** | 小马宝莉（本命 **云宝** 🌈）· 咱们裸熊 · Charlotte · 埃罗芒阿老师 · 魔女之旅…… 随缘补 |
-| 🎮 **游戏** | 原神（**久岐忍**天下第一）· Muse Dash · Phigros · 星露谷 · 泰拉瑞亚 · 我的世界 · 暖雪…… |
-| 🎧 **音乐** | 二次元 × 电音；**只收无损**（WAV / FLAC），还收藏 CD、磁带、光碟 —— 摸得着才叫拥有 |
-| 🎛️ **手感** | 玩游戏首选**手柄**（只认原生支持那种）；界面爱吃**毛玻璃**质感 |
-| 🥤 **吃喝** | 不吃辣（一点点都不行）· **咸党** · 可乐只喝**可口** |
-| 🌙 **作息** | 深夜修仙，凌晨最活跃 |
-| 🎪 **心愿单** | 攒钱买**人生第一台电脑** · 去一次**漫展**（还没去过）· 去**南方**看看 |
-
 ## 📊 数据
 
 <div align="center">
@@ -154,10 +117,6 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/%E6%B2%A1%E6%9C%89%E7%94%B5%E8%84%91%20%C2%B7%20%E5%85%A8%E9%9D%A0%E6%89%8B%E6%9C%BA-FFA07A?style=for-the-badge" alt="没有电脑 · 全靠手机" />
-<img src="https://img.shields.io/badge/%E4%B8%8D%E5%90%83%E8%BE%A3%20%C2%B7%20%E5%92%B8%E5%85%9A-FFD93D?style=for-the-badge" alt="不吃辣 · 咸党" />
-<img src="https://img.shields.io/badge/%E5%96%9C%E6%AC%A2%20%E7%B4%AB%20%2B%20%E7%BB%BF-9F7AEA?style=for-the-badge" alt="喜欢紫 + 绿" />
-<img src="https://img.shields.io/badge/%E6%94%92%E9%92%B1%E4%B9%B0%E7%AC%AC%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91-68D391?style=for-the-badge" alt="攒钱买第一台电脑" />
 <a href="https://maomao1ovo1.github.io"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-maomao1ovo1.github.io-FF6EC7?style=for-the-badge&labelColor=4C1D95" alt="个人主页" /></a>
 <a href="https://github.com/maomao1OvO1/maomao1OvO1.github.io"><img src="https://img.shields.io/github/created-at/maomao1OvO1/maomao1OvO1.github.io?style=for-the-badge&color=68D391&labelColor=4C1D95&label=%E5%BB%BA%E7%AB%99" alt="建站时长" /></a>
 <a href="https://github.com/maomao1OvO1/maomao1OvO1"><img src="https://img.shields.io/github/commit-activity/m/maomao1OvO1/maomao1OvO1?style=for-the-badge&color=FF6EC7&labelColor=4C1D95&label=%E6%9C%AC%E6%9C%88%E6%8F%90%E4%BA%A4" alt="本月提交" /></a>
@@ -175,7 +134,7 @@
 
 <div align="center">
 
-**欢迎来我这儿玩 —— 开心最重要 🐳**
+**保持好奇 · 持续构建**
 
 <br /><br />
 
