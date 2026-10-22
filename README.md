@@ -15,28 +15,37 @@
 
 ## 🧭 简介
 
-前端 / 小游戏 / 在线工具 / 自动化，**从设计、编码到部署运维一个人完成**。
+**全栈开发（偏前端），从设计、编码到部署运维，全部独立完成。**
 
-- **方向**：Web 应用与交互（Canvas / WebGL 渲染）、小游戏、浏览器工具、Node 服务、Android 自动化
-- **环境**：Android 手机 + Termux + DSH，开发、部署、运维全部在手机上完成；作品托管在 GitHub Pages / Cloudflare
-- **习惯**：能自己写就不套模板，优先零依赖、纯前端、可离线运行
+- **方向**：Web 交互与图形渲染（Canvas 2D / 3D）、小游戏、在线工具、Node 服务、Android 自动化
+- **技术偏好**：零依赖优先、纯前端可离线、静态优先部署；能自己实现就不套模板
+- **工作环境**：Android 手机 + Termux + DSH，编码 / 构建 / 部署 / 运维全流程在移动端完成
+- **关注点**：渲染性能、交互手感、移动端适配
 
 ## 🚀 项目
 
-> 自己从零写、自己部署：网页应用、小游戏、在线工具、自动化服务。
+| 项目 | 技术要点 | 入口 |
+|---|---|---|
+| **个人小站** | 静态站点 + 单页导航；游戏 / 音乐 / 相册三个子站 | [在线](https://maomao1ovo1.github.io) · [源码](https://github.com/maomao1OvO1/maomao1OvO1.github.io) |
+| **共鸣之塔** | 像素塔防：元素共鸣、8 座塔、无尽模式；Canvas 逐帧渲染 | [在线](https://maomao1ovo1.github.io/games/td/source/game.html) · [源码](https://github.com/maomao1OvO1/maomao1OvO1.github.io) |
+| **小游戏大厅** | 8 款小游戏（2048 / 贪吃蛇 / 打字 / 猜数字 / 五子棋 / 象棋 / 捕鱼 / 围棋）+ 在线排行榜 | [在线](https://maomao1ovo1.github.io/games.html) |
+| **ToolPocket 工具袋** | 35 个纯前端工具，文件不上传、无需注册；中 / 英 / 日三语 | [在线](https://tools.maomaowang.top/) · [源码](https://github.com/maomao1OvO1/baigong) |
+| **CoverMill** | 纯前端 Canvas 批量出图：20 套模板 × 6 种平台尺寸，ZIP 打包导出 | [在线](https://maomaowang.top/covermill/) · [源码](https://github.com/maomao1OvO1/covermill) |
+| **NFC 一贴就听** | NFC 标签触发网页 + HLS 音频流播放 | [在线](https://maomao1ovo1.github.io/nfc-tap-9f3a/) · [源码](https://github.com/maomao1OvO1/nfc-tap-9f3a) |
+| **太阳系 3D** | 3D 星球模型与轨道交互 | [在线](https://maomao1ovo1.github.io/solar-system/) |
+| **硬件测试大厅** | 指纹 / 传感器免授权检测，逐项权限申请 | [在线](https://maomao1ovo1.github.io/hardware-lab/) |
+| **JS 渲染演示** | 单文件零依赖：HTML 只留一个空 `<div>`，页面元素全部由 JS 构建 | [在线](https://maomao1ovo1.github.io/render.html) |
+| **磁力认知小游戏** | 面向低龄用户的磁力交互演示 | [源码](https://github.com/maomao1OvO1/magnet-miner) |
+| **排行榜服务** | 零依赖 Node.js：上报分数 → 维护全球榜 → `/ranking` 查询；内置限流防刷 | [源码](https://github.com/maomao1OvO1/myserver) |
+| **日语学习平台** | 极简界面 + 假名练习流程 | [源码](https://github.com/maomao1OvO1/kana-dojo) |
 
-| 作品 | 是什么 |
-|---|---|
-| 🏠 **[毛毛的个人主页](https://maomao1ovo1.github.io)** | 自己写、自己托管的小站 —— 游戏 / 音乐 / 相册都在这儿 |
-| 🗼 **[共鸣之塔](https://maomao1ovo1.github.io/games/td/source/game.html)** | 自己一个人写的**像素塔防**：元素共鸣、8 座塔、无尽模式，网页版可直接运行，另有安卓包 |
-| 🎮 **[小游戏大厅](https://maomao1ovo1.github.io/games.html)** | 2048 · 贪吃蛇 · 打字 · 猜数字 · 五子棋 · 象棋 · 捕鱼 · 围棋，全带排行榜 |
-| 🎵 **[NFC 一贴就听](https://maomao1ovo1.github.io/nfc-tap-9f3a/)** | 手机贴一下 NFC 挂件，直接开唱的小播放器 |
-| 🪐 **[太阳系 3D](https://maomao1ovo1.github.io/solar-system/)** | 能怼近看星球的小模型 |
-| 📱 **[硬件测试大厅](https://maomao1ovo1.github.io/hardware-lab/)** | 免授权指纹检测 + 一键授权的手机体检 |
-| 🧰 **[ToolPocket · 工具袋](https://tools.maomaowang.top/)** | 35 个在浏览器里跑完的在线小工具，文件不上传、不用注册，中 / 英 / 日三语 |
-| 🖼️ **[CoverMill · 封面生成器](https://maomaowang.top/covermill/)** | 一次输入、六种平台尺寸一起出图；20 套模板、纯前端 Canvas、可批量导出 ZIP |
-| 🧪 **[JS 渲染演示页](https://maomao1ovo1.github.io/render.html)** | 单文件零依赖，HTML 里只留一个空 div，其余页面元素全由 JS 现场创建 |
+## 🏗 工程实践
 
+- **CI / 自动化**：GitHub Actions 每日重建仓库代码统计与图表；提交自动部署 GitHub Pages
+- **部署**：静态站 → GitHub Pages；边缘服务 → Cloudflare Workers；实时数据 → 自建 Node 服务
+- **零依赖与隐私**：多个工具设计为单文件、零依赖、可离线运行，不上传文件、不采集数据
+- **移动端开发环境**：Android + Termux（bash / git / node / pnpm / ffmpeg）+ ADB / Shizuku 脚本化运维
+- **AI 辅助工程**：使用 DeepSeek Harness（DSH）完成代码生成、排障与配置管理，并维护自建插件体系
 <div align="center">
 
 <!-- 技术栈 -->
@@ -51,7 +60,7 @@
 <a href="https://www.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /></a>
 <a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness" /></a>
 
-<sub>上面是主要用到的 —— 最后两枚是一对：<b>DeepSeek</b> 给我写码 🐋，<b>DeepSeek Harness</b> 是我跑它的壳</sub>
+<sub>常用技术栈 —— 最后两枚是开发工具链：DeepSeek（模型）+ DeepSeek Harness（运行壳）</sub>
 
 <details>
 <summary><b>🔧 点开看完整技术栈</b></summary>
@@ -73,7 +82,7 @@
 <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
 <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
 
-<sub>还有几样用过但图标库没有的：Termux · ffmpeg · ADB · TTS 引擎 · GitHub Pages</sub>
+<sub>工具链：Termux · ffmpeg · ADB · TTS · GitHub Pages</sub>
 
 </details>
 
@@ -135,6 +144,8 @@
 <div align="center">
 
 **保持好奇 · 持续构建**
+
+<sub>作品均为个人独立开发 · 部分项目开源，源码见上表</sub>
 
 <br /><br />
 
