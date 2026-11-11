@@ -15,22 +15,21 @@
 
 ## 🧭 简介
 
-**全栈开发（偏前端），从设计、编码到部署运维，全部独立完成。**
+学生，主要写前端。自己的站、小游戏和工具，从画界面到部署上线都是一个人做的。
 
-- **方向**：Web 交互与图形渲染（Canvas 2D / 3D）、小游戏、在线工具、Node 服务、Android 自动化
-- **技术偏好**：零依赖优先、纯前端可离线、静态优先部署；能自己实现就不套模板
-- **工作环境**：Windows 10 + Ubuntu 24.04 双系统桌面 + Android 手机；桌面端起稿、手机端接力，编码 / 构建 / 部署 / 运维全流程自己来
-- **关注点**：渲染性能、交互手感、移动端适配
+写得最多的是 Canvas 渲染和网页游戏，也做纯前端工具、零依赖的 Node 服务，偶尔折腾 Android 自动化。桌面是 Windows 10 + Ubuntu 24.04 双系统，出门换手机 Termux，仓库和命令两边一样。
+
+排障和配置管理用 DeepSeek Harness，桌面和手机各装一份，插件自己维护。
 
 ## 🚀 项目
 
 | 项目 | 技术要点 | 入口 |
 |---|---|---|
-| **个人小站** | 静态站点 + 单页导航；游戏 / 音乐 / 相册三个子站 | [在线](https://maomao1ovo1.github.io) · [源码](https://github.com/maomao1OvO1/maomao1OvO1.github.io) |
+| ⭐ **个人小站** | 静态站点 + 单页导航；游戏 / 音乐 / 相册三个子站 | [在线](https://maomao1ovo1.github.io) · [源码](https://github.com/maomao1OvO1/maomao1OvO1.github.io) |
 | **共鸣之塔** | 像素塔防：元素共鸣、8 座塔、无尽模式；Canvas 逐帧渲染 | [在线](https://maomao1ovo1.github.io/games/td/source/game.html) · [源码](https://github.com/maomao1OvO1/maomao1OvO1.github.io) |
 | **小游戏大厅** | 8 款小游戏（2048 / 贪吃蛇 / 大鱼吃小鱼 / 打字 / 猜数字 / 五子棋 / 国际象棋 / 围棋）+ 在线排行榜 | [在线](https://maomao1ovo1.github.io/games.html) |
-| **ToolPocket 工具袋** | 35 个纯前端工具，文件不上传、无需注册；中 / 英 / 日三语 | [在线](https://tools.maomaowang.top/) · [源码](https://github.com/maomao1OvO1/baigong) |
-| **CoverMill** | 纯前端 Canvas 批量出图：20 套模板 × 6 种平台尺寸，ZIP 打包导出 | [在线](https://maomaowang.top/covermill/) · [源码](https://github.com/maomao1OvO1/covermill) |
+| ⭐ **ToolPocket 工具袋** | 35 个纯前端工具，文件不上传、无需注册；中 / 英 / 日三语 | [在线](https://tools.maomaowang.top/) · [源码](https://github.com/maomao1OvO1/baigong) |
+| ⭐ **CoverMill** | 纯前端 Canvas 批量出图：20 套模板 × 6 种平台尺寸，ZIP 打包导出 | [在线](https://maomaowang.top/covermill/) · [源码](https://github.com/maomao1OvO1/covermill) |
 | **NFC 一贴就听** | NFC 标签触发网页 + HLS 流播放 | [在线](https://maomao1ovo1.github.io/nfc-tap-9f3a/) · [源码](https://github.com/maomao1OvO1/nfc-tap-9f3a) |
 | **太阳系 3D** | 3D 星球模型与轨道交互 | [在线](https://maomao1ovo1.github.io/solar-system/) |
 | **硬件测试大厅** | 指纹 / 传感器免授权检测，逐项权限申请 | [在线](https://maomao1ovo1.github.io/hardware-lab/) |
@@ -40,13 +39,11 @@
 
 ## 🏗 工程实践
 
-- **CI / 自动化**：GitHub Actions 每日重建仓库代码统计与图表；提交自动部署 GitHub Pages
-- **部署**：静态站 → GitHub Pages；边缘服务 → Cloudflare Workers；实时数据 → 自建 Node 服务
-- **零依赖与隐私**：多个工具设计为单文件、零依赖、可离线运行，不上传文件、不采集数据
-- **桌面开发环境**：Windows 10 / Ubuntu 24.04 双系统（VS Code · PowerShell · bash · node · pnpm · git），D 盘 NTFS 两系统共享
-- **移动端开发环境**：Android + Termux（bash / git / node / pnpm / ffmpeg），与桌面端共用同一套仓库和命令行习惯
-- **跨端运维**：手机 SSH 直连桌面端，随时远程跑脚本、传文件；ADB / Shizuku 脚本化管设备
-- **AI 辅助工程**：桌面端与移动端各一份 DeepSeek Harness（DSH），负责代码生成、排障与配置管理，并维护自建插件体系
+静态页面放 GitHub Pages，要接口的丢给 Cloudflare Workers，实时数据用一个自建 Node 进程顶着。代码统计和贡献图交给 GitHub Actions 每天重算，不用管。
+
+能写成一个文件就不拆包：工具袋和 CoverMill 都是纯前端，计算全在浏览器里，文件不上传，也不收集数据。
+
+Windows 10 和 Ubuntu 24.04 装在同一个盘上，D 盘两边共用。平时桌面写，出门用手机 Termux 接着写，仓库和命令行一样；长任务 SSH 扔回电脑跑，ADB 和 Shizuku 管设备。
 
 ## 🧰 技术栈
 
@@ -62,7 +59,7 @@
 <a href="https://www.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /></a>
 <a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness" /></a>
 
-<sub>常用技术栈 —— 最后两枚是开发工具链：DeepSeek（模型）+ DeepSeek Harness（运行壳）</sub>
+<sub>最后两枚是工具：DeepSeek 是模型，DeepSeek Harness 是运行壳。</sub>
 
 <br />
 
@@ -73,7 +70,7 @@
 <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
 <a href="https://termux.dev/"><img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" /></a>
 
-<sub>开发环境 —— 桌面端 Windows 10 + Ubuntu 24.04 双系统，移动端 Android + Termux</sub>
+<sub>桌面双系统 + 手机 Termux，用的是同一套命令和仓库。</sub>
 
 <details>
 <summary><b>🔧 点开看完整技术栈</b></summary>
@@ -155,9 +152,9 @@
 
 <div align="center">
 
-**保持好奇 · 持续构建 🐳**
+**写完了就上线。**
 
-<sub>作品均为个人独立开发 · 部分项目开源，源码见上表</sub>
+<sub>源码都在上表对应的仓库里。</sub>
 
 <br /><br />
 
