@@ -19,7 +19,7 @@
 
 - **方向**：Web 交互与图形渲染（Canvas 2D / 3D）、小游戏、在线工具、Node 服务、Android 自动化
 - **技术偏好**：零依赖优先、纯前端可离线、静态优先部署；能自己实现就不套模板
-- **工作环境**：Android 手机 + Termux + DSH，编码 / 构建 / 部署 / 运维全流程在移动端完成
+- **工作环境**：Windows 10 + Ubuntu 24.04 双系统桌面 + Android 手机；桌面端起稿、手机端接力，编码 / 构建 / 部署 / 运维全流程自己来
 - **关注点**：渲染性能、交互手感、移动端适配
 
 ## 🚀 项目
@@ -43,8 +43,10 @@
 - **CI / 自动化**：GitHub Actions 每日重建仓库代码统计与图表；提交自动部署 GitHub Pages
 - **部署**：静态站 → GitHub Pages；边缘服务 → Cloudflare Workers；实时数据 → 自建 Node 服务
 - **零依赖与隐私**：多个工具设计为单文件、零依赖、可离线运行，不上传文件、不采集数据
-- **移动端开发环境**：Android + Termux（bash / git / node / pnpm / ffmpeg）+ ADB / Shizuku 脚本化运维
-- **AI 辅助工程**：使用 DeepSeek Harness（DSH）完成代码生成、排障与配置管理，并维护自建插件体系
+- **桌面开发环境**：Windows 10 / Ubuntu 24.04 双系统（VS Code · PowerShell · bash · node · pnpm · git），D 盘 NTFS 两系统共享
+- **移动端开发环境**：Android + Termux（bash / git / node / pnpm / ffmpeg），与桌面端共用同一套仓库和命令行习惯
+- **跨端运维**：手机 SSH 直连桌面端，随时远程跑脚本、传文件；ADB / Shizuku 脚本化管设备
+- **AI 辅助工程**：桌面端与移动端各一份 DeepSeek Harness（DSH），负责代码生成、排障与配置管理，并维护自建插件体系
 
 ## 🧰 技术栈
 
@@ -61,6 +63,17 @@
 <a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness" /></a>
 
 <sub>常用技术栈 —— 最后两枚是开发工具链：DeepSeek（模型）+ DeepSeek Harness（运行壳）</sub>
+
+<br />
+
+<!-- 开发环境：桌面双系统 + 移动端 -->
+<a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10" /></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu 24.04" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+<a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
+<a href="https://termux.dev/"><img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" /></a>
+
+<sub>开发环境 —— 桌面端 Windows 10 + Ubuntu 24.04 双系统，移动端 Android + Termux</sub>
 
 <details>
 <summary><b>🔧 点开看完整技术栈</b></summary>
@@ -81,7 +94,7 @@
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
 <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
 
-<sub>工具链：Termux · ffmpeg · ADB · TTS · GitHub Pages</sub>
+<sub>工具链：VS Code · PowerShell · bash · Termux · SSH · ffmpeg · ADB · TTS · GitHub Pages</sub>
 
 </details>
 
