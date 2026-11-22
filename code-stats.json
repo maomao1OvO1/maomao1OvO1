@@ -1,6 +1,6 @@
 {
-  "bytes": 9625807,
-  "human": "9.18 MiB",
+  "bytes": 9644855,
+  "human": "9.20 MiB",
   "repos": [
     {
       "name": "maomao1OvO1.github.io",
@@ -28,6 +28,11 @@
       "human": "35.20 KiB"
     },
     {
+      "name": "lid-open-sound",
+      "bytes": 19048,
+      "human": "18.60 KiB"
+    },
+    {
       "name": "myserver",
       "bytes": 17501,
       "human": "17.09 KiB"
@@ -47,13 +52,15 @@
     "HTML": 3880130,
     "TypeScript": 2867733,
     "JavaScript": 2029206,
-    "Python": 574808,
+    "Python": 582415,
     "CSS": 267872,
-    "Shell": 6058
+    "PowerShell": 10502,
+    "Shell": 6058,
+    "VBScript": 939
   },
-  "repo_count": 8,
+  "repo_count": 9,
   "excluded_forks": [
     "kana-dojo"
   ],
-  "updated": "2026-11-21 02:01 UTC"
+  "updated": "2026-11-22 01:03 UTC"
 }
